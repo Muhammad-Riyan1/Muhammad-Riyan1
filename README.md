@@ -21,19 +21,40 @@
 
 ---
 
+<div align="center">
+
+### ✦ From Curiosity to Impact
+
+</div>
+
+```mermaid
+flowchart LR
+    A["💡 Curiosity"] --> B["📚 Learn"]
+    B --> C["🧪 Experiment"]
+    C --> D["⚙️ Build"]
+    D --> E["🤖 Automate"]
+    E --> F["🚀 Impact"]
+```
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a **Computer Science student and AI-focused Python developer** passionate about building intelligent, data-driven systems.
 
 My interests span **Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, Data Engineering, Cloud Analytics, and Intelligent Automation**.
 
-I enjoy moving beyond isolated experiments and exploring the complete AI engineering process:
+I enjoy moving beyond isolated experiments and exploring the complete AI engineering process.
 
-<div align="center">
-
-### `Data → Model → Evaluation → Engineering → Automation → Impact`
-
-</div>
+```mermaid
+flowchart LR
+    A["📊 Data"] --> B["🧹 Prepare"]
+    B --> C["🧠 Model"]
+    C --> D["📈 Evaluate"]
+    D --> E["⚙️ Engineer"]
+    E --> F["🤖 Automate"]
+    F --> G["🚀 Impact"]
+```
 
 * 🔭 Currently building **Scalable Machine Learning Models & Custom AI Workflows**
 * 🤖 Exploring **Agentic AI, LLMs & Intelligent Automation**
@@ -123,6 +144,7 @@ Extraction · Processing · Structured Data
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🧠 AI / ML
@@ -176,6 +198,7 @@ Extraction · Processing · Structured Data
 `AI Workflows`
 
 </td>
+
 </tr>
 </table>
 
@@ -221,417 +244,5 @@ Extraction · Processing · Structured Data
 muhammad_riyan = {
     "role": "AI & Python Developer",
 
-    "education": "BS Computer Science @ UET Peshawar",
-
-    "building": [
-        "Scalable Machine Learning Models",
-        "Custom AI Workflows",
-        "Data-Driven Intelligent Systems",
-    ],
-
-    "exploring": [
-        "Agentic AI",
-        "Large Language Models",
-        "Computer Vision",
-        "Cloud Data Engineering",
-    ],
-
-    "goal": "Turn AI concepts into useful real-world systems.",
-
-    "status": "Learning. Building. Improving. 🚀"
-}
+    "education": "BS Computer
 ```
-
----
-
-## 🧩 From Problem to Intelligent System
-
-I'm interested in the **complete AI lifecycle**, not only model training.
-
-```text
-                    REAL-WORLD PROBLEM
-                           │
-                           ▼
-                  UNDERSTAND THE DATA
-                           │
-                           ▼
-                    PREPARE & EXPLORE
-                           │
-                           ▼
-                     BUILD / TRAIN
-                           │
-                           ▼
-                        EVALUATE
-                           │
-                           ▼
-                   ENGINEER THE SYSTEM
-                           │
-                           ▼
-                   AUTOMATE & IMPROVE
-                           │
-                           ▼
-                      USEFUL IMPACT
-```
-
-For me, the question isn't only:
-
-> **“Can I train this model?”**
-
-It's also:
-
-> **“Can I turn it into a useful, understandable, and reliable system?”**
-
----
-
-## 🔬 Research → Engineering
-
-One of the areas that interests me most is the bridge between **AI experimentation and practical engineering**.
-
-```text
-Research Question
-       │
-       ▼
-   Hypothesis
-       │
-       ▼
-   Experiment
-       │
-       ▼
-    Evidence
-       │
-       ▼
-   Prototype
-       │
-       ▼
-  Engineering
-       │
-       ▼
-     System
-       │
-       ▼
-   Real Usage
-       │
-       ▼
-    Feedback
-       │
-       └──────────► Better Questions
-```
-
-**Research asks:** *What might work?*
-
-**Engineering asks:** *How can we make it useful and reliable?*
-
-I'm working toward becoming stronger at both.
-
----
-
-## 🧭 Learning Roadmap
-
-```text
-FOUNDATIONS
-│
-├── Python
-├── Data Structures
-├── Mathematics for ML
-└── Data Analysis
-        │
-        ▼
-MACHINE LEARNING
-│
-├── Supervised Learning
-├── Unsupervised Learning
-├── Feature Engineering
-└── Model Evaluation
-        │
-        ▼
-DEEP LEARNING
-│
-├── Neural Networks
-├── CNNs
-├── Computer Vision
-└── NLP
-        │
-        ▼
-MODERN AI
-│
-├── Large Language Models
-├── Fine-Tuning
-├── RAG
-└── Agentic AI
-        │
-        ▼
-AI ENGINEERING
-│
-├── APIs
-├── Automation
-├── Data Pipelines
-├── Cloud
-└── Production AI Systems
-```
-
-<div align="center">
-
-### The goal isn't to collect technologies.
-
-### The goal is to become better at solving difficult problems.
-
-</div>
-
----
-
-## 💡 Engineering Principles
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 — Fundamentals First
-
-Frameworks change. Strong fundamentals continue to matter.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 — Build to Learn
-
-Reading teaches concepts. Building reveals what I still need to understand.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 03 — Measure, Don't Assume
-
-Models and systems should be evaluated using evidence.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 — Keep It Understandable
-
-Good engineering should remain readable, maintainable, and explainable.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 05 — Automate With Purpose
-
-Automation should remove unnecessary work rather than introduce unnecessary complexity.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 06 — Document the Journey
-
-A strong project explains the problem, approach, decisions, results, and limitations.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 What I Want to Build More Of
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Agentic AI Systems
-
-Intelligent workflows combining:
-
-`LLMs` · `Tools` · `APIs` · `Data` · `Automation`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👁️ Computer Vision
-
-Applied systems involving:
-
-`Image Classification` · `CNNs` · `Deep Learning` · `Evaluation`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Intelligent Data Systems
-
-Scalable pipelines using:
-
-`Python` · `PySpark` · `Databricks` · `Analytics`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ AI Automation
-
-Connecting:
-
-`AI Models` · `n8n` · `APIs` · `Databases` · `Services`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Goals
-
-**01 — Strengthen AI Fundamentals**
-
-Go deeper into machine learning, deep learning, computer vision, and NLP.
-
-**02 — Build Better Projects**
-
-Develop well-documented projects that demonstrate complete AI engineering workflows.
-
-**03 — Explore Agentic Systems**
-
-Build intelligent workflows connecting models, APIs, tools, and data.
-
-**04 — Contribute to Open Source**
-
-Learn from production-quality projects and collaborate with other developers.
-
-**05 — Grow as an AI Engineer**
-
-Strengthen both the research and engineering skills required to build reliable intelligent systems.
-
----
-
-## 🏗️ The Engineer I'm Working to Become
-
-I don't want to simply know a long list of technologies.
-
-I want to become an engineer who can:
-
-* 🧠 Understand difficult technical problems
-* 📊 Work carefully with data
-* 🔬 Design meaningful experiments
-* 📈 Evaluate results objectively
-* 🐍 Write clean Python
-* ⚙️ Build maintainable systems
-* 🤖 Connect AI models with real applications
-* ☁️ Understand scalable data and cloud workflows
-* 📝 Communicate technical decisions clearly
-* 🔁 Keep improving when the first solution doesn't work
-
----
-
-## 🌱 My Development Loop
-
-<div align="center">
-
-```text
-              CURIOSITY
-                  │
-                  ▼
-                LEARN
-                  │
-                  ▼
-             EXPERIMENT
-                  │
-                  ▼
-                BUILD
-                  │
-                  ▼
-              EVALUATE
-                  │
-                  ▼
-               IMPROVE
-                  │
-                  ▼
-                SHARE
-                  │
-                  └──────────────► NEW QUESTIONS
-```
-
-### `Learn → Experiment → Build → Evaluate → Improve`
-
-</div>
-
----
-
-## 🤝 Open to Collaboration
-
-<div align="center">
-
-I'm interested in connecting around:
-
-`Artificial Intelligence` • `Machine Learning` • `Computer Vision`
-
-`Agentic AI` • `Python` • `Data Engineering` • `Automation`
-
-<br>
-
-### Currently open to
-
-**🎓 AI / ML Internships**
-
-**🔬 Research Collaborations**
-
-**💻 Open-Source Contributions**
-
-**🤖 AI & Machine Learning Projects**
-
-**⚡ Agentic AI / Automation Projects**
-
-**📊 Data Engineering Projects**
-
-<br>
-
-### Have an interesting idea or problem?
-
-**Let's build something meaningful.**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
-
-[![Email](https://img.shields.io/badge/START_A_CONVERSATION-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ Keep Learning. Keep Building.
-
-> ### *“The goal isn't to know everything.*
->
-> ### *The goal is to become better at figuring things out.”*
-
-<br>
-
-### `Curiosity → Knowledge → Engineering → Impact`
-
-<br>
-
-### Muhammad Riyan
-
-**AI & Python Developer**
-
-`Machine Learning` • `Deep Learning` • `Computer Vision`
-
-`Agentic AI` • `Data Engineering` • `Automation`
-
-<br>
-
-**Building today. Learning for tomorrow. 🚀**
-
-</div>
