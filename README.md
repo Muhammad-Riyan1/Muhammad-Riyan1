@@ -268,6 +268,129 @@ Develop the research and engineering skills required to build reliable intellige
 
 ---
 
+## 🌟 Beyond the Code
+
+I’m building my career around one principle:
+
+> **Learn deeply. Build practically. Improve continuously.**
+
+I’m especially interested in problems where **AI, data, and automation** come together to create something genuinely useful.
+
+My long-term direction is to grow from building individual models and experiments into engineering **complete intelligent systems** — from data preparation and model development to APIs, automation, deployment, and continuous improvement.
+
+---
+
+## 🔬 Areas I'm Exploring
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧠
+
+**Intelligent Models**
+
+Deep Learning
+Computer Vision
+NLP
+LLMs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Agents**
+
+Agentic AI
+Tool Use
+AI Workflows
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Data Systems**
+
+PySpark
+Databricks
+Data Pipelines
+Analytics
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**AI Engineering**
+
+APIs
+Cloud
+Integration
+Scalable Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💭 Developer Mindset
+
+```text
+Don't just learn a technology.
+        ↓
+Understand the problem.
+        ↓
+Experiment with solutions.
+        ↓
+Build something real.
+        ↓
+Measure what works.
+        ↓
+Improve it.
+        ↓
+Share what you learned.
+```
+
+I value **consistent progress over shortcuts** and believe strong engineering comes from combining curiosity with disciplined experimentation.
+
+---
+
+## 🤝 Let's Create Something Meaningful
+
+<div align="center">
+
+### Have an interesting AI problem or project?
+
+I'm open to conversations around:
+
+`Machine Learning` • `Computer Vision` • `Agentic AI`
+`Python` • `Data Engineering` • `Automation` • `Open Source`
+
+<br>
+
+Whether it's a **research idea, collaborative project, open-source contribution, or AI automation challenge**, feel free to reach out.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
+[![Email](https://img.shields.io/badge/LET'S_BUILD-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
+
+<br><br>
+
+### `Curiosity → Knowledge → Engineering → Impact`
+
+<sub>Always learning. Always building.</sub>
+
+</div>
+
+
 ## 🤝 Open to Collaboration
 
 <div align="center">
