@@ -23,69 +23,47 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student and AI-focused Python developer** interested in transforming machine-learning ideas into practical intelligent systems.
+I'm a **Computer Science student and AI-focused Python developer** passionate about building intelligent, data-driven systems.
 
-My work and learning span:
-
-* 🧠 Machine Learning & Deep Learning
-* 👁️ Computer Vision & NLP
-* 🤖 Agentic AI & Intelligent Automation
-* 📊 Data Engineering & Analytics
-* ☁️ Cloud-based data workflows
-* 🐍 Python engineering
+My interests span **Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, Data Engineering, Cloud Analytics, and Intelligent Automation**.
 
 I'm particularly interested in what happens **after a model is trained** — how data, models, APIs, automation, and software engineering can work together to create useful systems.
 
-* 🔭 Building **Scalable Machine Learning Models & Custom AI Workflows**
+* 🔭 Currently building **Scalable Machine Learning Models & Custom AI Workflows**
 * 🤖 Exploring **Agentic AI, LLMs & Intelligent Automation**
 * 👁️ Working with **Deep Learning & Computer Vision**
-* 📊 Developing with **PySpark, Databricks & Cloud Analytics**
-* ⚙️ Automating workflows through **n8n, APIs & Python**
+* 📊 Developing skills in **PySpark, Databricks & Cloud Analytics**
+* ⚙️ Building automated workflows with **n8n, APIs & Python**
 * 🎓 Pursuing **BS Computer Science — UET Peshawar**
-* 📫 **[mhdriyankhn@gmail.com](mailto:mhdriyankhn@gmail.com)**
+* 📫 Reach me at **[mhdriyankhn@gmail.com](mailto:mhdriyankhn@gmail.com)**
 
 ---
 
-# 🧠 My AI Engineering Map
+## 🧠 My AI Engineering Map
 
-This represents the areas I currently work with and how they connect.
+```mermaid id="map01"
+flowchart LR
 
-```mermaid
-flowchart TB
+    ML["🧠 Machine Learning"]
+    DL["🧬 Deep Learning"]
+    CV["👁️ Computer Vision"]
+    NLP["💬 NLP"]
+    AG["🤖 Agentic AI"]
+    DATA["📊 Data Engineering"]
 
-    AI["🧠 Artificial Intelligence"]
+    ML --> AI["⚡ Applied AI"]
+    DL --> AI
+    CV --> AI
+    NLP --> AI
+    AG --> AI
+    DATA --> AI
 
-    AI --> ML["Machine Learning"]
-    AI --> DL["Deep Learning"]
-    AI --> AG["Agentic AI"]
-
-    ML --> SK["Scikit-learn"]
-    ML --> DATA["Data Analysis"]
-
-    DL --> PT["PyTorch"]
-    DL --> CV["Computer Vision"]
-    DL --> NLP["NLP"]
-
-    AG --> LLM["LLMs"]
-    AG --> N8N["n8n"]
-    AG --> API["API Automation"]
-
-    DATA --> PANDAS["Pandas / NumPy"]
-    DATA --> DE["Data Engineering"]
-
-    DE --> SPARK["PySpark"]
-    DE --> DBX["Databricks"]
-    DE --> CLOUD["AWS / Cloud"]
-
-    CV --> SYSTEM["🚀 Intelligent Systems"]
-    NLP --> SYSTEM
-    API --> SYSTEM
-    CLOUD --> SYSTEM
+    AI --> SYS["🚀 Intelligent Systems"]
 ```
 
 ---
 
-# 🚀 Featured Work
+## 🚀 Featured Work
 
 <table>
 <tr>
@@ -99,7 +77,7 @@ Deep-learning image classification pipeline focused on CNN-based model developme
 
 `Python` `PyTorch` `CNN` `Computer Vision`
 
-**Engineering Focus**
+**Focus**
 
 Model Training · Image Processing · Evaluation
 
@@ -115,7 +93,7 @@ Intelligent workflow designed to retrieve structured data, process it, and autom
 
 `n8n` `Agentic AI` `APIs` `Data Analysis`
 
-**Engineering Focus**
+**Focus**
 
 AI Workflows · Automation · Data Processing
 
@@ -133,7 +111,7 @@ Cloud-oriented analytics workflow for processing, transforming, and analyzing e-
 
 `PySpark` `Databricks` `AWS` `Python`
 
-**Engineering Focus**
+**Focus**
 
 ETL · Distributed Processing · Cloud Analytics
 
@@ -149,7 +127,7 @@ Automated workflow for extracting product information and transforming it into s
 
 `Python` `Automation` `Data Extraction`
 
-**Engineering Focus**
+**Focus**
 
 Extraction · Processing · Structured Data
 
@@ -159,36 +137,29 @@ Extraction · Processing · Structured Data
 
 ---
 
-# 🔗 How My Projects Connect
+## 🔗 How My Projects Connect
 
-Instead of treating the projects as unrelated experiments, they cover different parts of the intelligent-system stack.
+Each project strengthens a different part of the engineering stack while contributing toward the same goal: building useful intelligent systems.
 
-```mermaid
+```mermaid id="projects01"
 flowchart LR
 
-    DATA["📊 DATA"]
+    MED["🩻 Medical AI"]
+    AGENT["🤖 Data Agent"]
+    CLOUD["☁️ Analytics Engine"]
+    EXTRACT["📦 Data Extraction"]
 
-    DATA --> EXT["📦 Data Extraction"]
-    EXT --> ENG["☁️ Data Engineering"]
+    MED --> WORK["⚙️ Applied Engineering"]
+    AGENT --> WORK
+    CLOUD --> WORK
+    EXTRACT --> WORK
 
-    ENG --> ML["🧠 Machine Learning"]
-
-    ML --> CV["🩻 Computer Vision"]
-    ML --> ANALYSIS["📈 Analytics"]
-
-    CV --> INT["🤖 Intelligence"]
-    ANALYSIS --> INT
-
-    INT --> AGENT["⚡ AI Agents"]
-
-    AGENT --> AUTO["🔄 Automation"]
-
-    AUTO --> SYSTEM["🚀 Intelligent Systems"]
+    WORK --> IMPACT["🚀 Practical AI Systems"]
 ```
 
 ---
 
-# 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 <div align="center">
 
@@ -219,52 +190,9 @@ flowchart LR
 
 ---
 
-# ⚙️ My AI Engineering Workflow
+## ⚡ Currently
 
-This is the engineering process I aim to follow when developing AI projects.
-
-```mermaid
-flowchart LR
-
-    P["🎯 Problem"]
-    --> D["📊 Data"]
-
-    D --> PREP["🧹 Preparation"]
-
-    PREP --> EXP["🧪 Experimentation"]
-
-    EXP --> MODEL["🧠 Model"]
-
-    MODEL --> EVAL{"📈 Evaluation"}
-
-    EVAL -->|"Needs improvement"| EXP
-
-    EVAL -->|"Promising"| ENG["⚙️ Engineering"]
-
-    ENG --> API["🔌 APIs / Integration"]
-
-    API --> AUTO["🤖 Automation"]
-
-    AUTO --> APP["🚀 Useful System"]
-
-    APP --> FEEDBACK["🔄 Feedback"]
-
-    FEEDBACK --> P
-```
-
-### Why this matters
-
-For me, AI development isn't finished when a model reaches an acceptable metric.
-
-A complete system should also consider:
-
-**data → evaluation → engineering → integration → automation → real-world feedback**
-
----
-
-# ⚡ Currently
-
-```python
+```python id="current01"
 muhammad_riyan = {
     "role": "AI & Python Developer",
 
@@ -283,78 +211,107 @@ muhammad_riyan = {
         "Cloud Data Engineering",
     ],
 
-    "goal":
-        "Turn AI concepts into useful real-world systems.",
+    "goal": "Turn AI concepts into useful real-world systems.",
 
-    "status":
-        "Learning. Building. Improving. 🚀"
+    "status": "Learning. Building. Improving. 🚀"
 }
 ```
 
 ---
 
-# 🔬 Research → Production
+## ⚙️ My AI Engineering Workflow
 
-A major area I want to strengthen is the transition from **AI experimentation to reliable engineering**.
+My focus extends beyond training models toward understanding how the major parts of an AI system work together.
 
-```mermaid
+```mermaid id="workflow01"
 flowchart LR
 
-    Q["❓ Question"]
-    --> H["💡 Hypothesis"]
+    DATA["📊 Data"]
+    MODEL["🧠 Modeling"]
+    EVAL["📈 Evaluation"]
+    ENG["⚙️ Engineering"]
+    AUTO["🤖 Automation"]
 
-    H --> EX["🧪 Experiment"]
+    DATA --> SYSTEM["🚀 AI System"]
+    MODEL --> SYSTEM
+    EVAL --> SYSTEM
+    ENG --> SYSTEM
+    AUTO --> SYSTEM
 
-    EX --> EV["📊 Evidence"]
-
-    EV --> PROTO["🛠️ Prototype"]
-
-    PROTO --> TEST["✅ Validate"]
-
-    TEST --> ENG["⚙️ Engineer"]
-
-    ENG --> DEPLOY["🚀 Apply"]
-
-    DEPLOY --> FB["💬 Feedback"]
-
-    FB -. "New questions" .-> Q
+    SYSTEM --> IMPACT["🌍 Real-World Use"]
 ```
 
-This reflects two complementary ways of thinking:
+For me, AI development isn't finished when a model reaches an acceptable metric.
 
-> **Research:** What works, and why?
-
-> **Engineering:** How can we make it useful, reliable, and repeatable?
+A complete system should consider **data quality, model performance, engineering, integration, automation, and real-world usefulness**.
 
 ---
 
-# 🧭 Technical Growth Path
+## 🔬 Research → Production
 
-This isn't a fake percentage-based skill chart. It represents the technical areas I'm developing and how later areas depend on earlier foundations.
+I'm interested in strengthening the connection between **AI experimentation and practical engineering**.
 
-```mermaid
-flowchart TB
+```mermaid id="research01"
+flowchart LR
 
-    FOUNDATION["01 · FOUNDATIONS<br/>Python · DSA · OOP · Mathematics"]
+    QUESTION["❓ Research Questions"]
+    EXP["🧪 Experiments"]
+    EVIDENCE["📊 Evidence"]
+    PROTO["🛠️ Prototypes"]
 
-    FOUNDATION --> DATA["02 · DATA<br/>NumPy · Pandas · Visualization"]
+    QUESTION --> RESEARCH["🔬 Research"]
+    EXP --> RESEARCH
+    EVIDENCE --> RESEARCH
+    PROTO --> RESEARCH
 
-    DATA --> ML["03 · MACHINE LEARNING<br/>Training · Features · Evaluation"]
+    RESEARCH --> ENG["⚙️ Engineering"]
 
-    ML --> DL["04 · DEEP LEARNING<br/>Neural Networks · CNNs"]
-
-    DL --> APPLIED["05 · APPLIED AI<br/>Computer Vision · NLP"]
-
-    APPLIED --> MODERN["06 · MODERN AI<br/>LLMs · Fine-Tuning · Agentic AI"]
-
-    MODERN --> ENG["07 · AI ENGINEERING<br/>APIs · Automation · Data Pipelines · Cloud"]
-
-    ENG --> SYSTEM["🚀 INTELLIGENT SYSTEMS"]
+    ENG --> SYSTEM["🚀 Reliable Systems"]
 ```
+
+> **Research asks:** What works, and why?
+
+> **Engineering asks:** How can we make it useful, reliable, and repeatable?
+
+I'm working toward becoming stronger at both.
 
 ---
 
-# 🧩 Engineering Principles
+## 🧭 Technical Growth Path
+
+This represents the technical areas I'm developing and how they contribute toward my broader engineering direction.
+
+```mermaid id="growth01"
+flowchart LR
+
+    FOUNDATION["🐍 Foundations"]
+    DATA["📊 Data"]
+    ML["🧠 Machine Learning"]
+    DL["🧬 Deep Learning"]
+    MODERN["✨ Modern AI"]
+    CLOUD["☁️ Cloud & Automation"]
+
+    FOUNDATION --> GROWTH["⚙️ AI Engineering"]
+    DATA --> GROWTH
+    ML --> GROWTH
+    DL --> GROWTH
+    MODERN --> GROWTH
+    CLOUD --> GROWTH
+
+    GROWTH --> SYSTEM["🚀 Intelligent Systems"]
+```
+
+<div align="center">
+
+### The goal isn't to collect technologies.
+
+### The goal is to become better at solving difficult problems.
+
+</div>
+
+---
+
+## 💡 Engineering Principles
 
 <table>
 <tr>
@@ -362,9 +319,7 @@ flowchart TB
 
 ### 01 · Fundamentals First
 
-Frameworks change.
-
-Strong fundamentals make it easier to understand and adapt to new technologies.
+Frameworks change. Strong fundamentals make it easier to understand and adapt to new technologies.
 
 </td>
 
@@ -372,9 +327,7 @@ Strong fundamentals make it easier to understand and adapt to new technologies.
 
 ### 02 · Build to Learn
 
-Theory gives direction.
-
-Building reveals the gaps in understanding.
+Theory gives direction. Building reveals the gaps in understanding.
 
 </td>
 </tr>
@@ -418,11 +371,11 @@ A strong project communicates its problem, architecture, decisions, results, and
 
 ---
 
-# 🎯 What I'm Building Toward
+## 🎯 What I'm Building Toward
 
-The technologies I'm learning are not isolated goals. They converge toward a broader engineering direction.
+My interests aren't isolated technologies. They converge toward one broader goal.
 
-```mermaid
+```mermaid id="toward01"
 flowchart LR
 
     ML["🧠 Machine Learning"]
@@ -439,12 +392,12 @@ flowchart LR
     CLOUD --> SYS
     AUTO --> SYS
 
-    SYS --> PROD["Intelligent<br/>Real-World Systems"]
+    SYS --> PROD["🌍 Intelligent<br/>Real-World Systems"]
 ```
 
 ---
 
-# 🚀 Areas I Want to Explore Further
+## 🚀 Areas I Want to Explore Further
 
 <table>
 <tr>
@@ -464,7 +417,7 @@ Building systems where models can interact with:
 
 Developing stronger experience with:
 
-`CNNs` · `Image Classification` · `Evaluation`
+`CNNs` · `Image Classification` · `Deep Learning` · `Evaluation`
 
 </td>
 </tr>
@@ -494,31 +447,55 @@ Connecting:
 
 ---
 
-# 🎯 Current Goals
+## 🎯 Current Goals
 
-### `01` Strengthen AI Fundamentals
+### `01` · Strengthen AI Fundamentals
 
 Go deeper into **Machine Learning, Deep Learning, Computer Vision, and NLP**.
 
-### `02` Build End-to-End Projects
+### `02` · Build End-to-End Projects
 
 Move beyond isolated notebooks toward complete, documented engineering projects.
 
-### `03` Explore Agentic Systems
+### `03` · Explore Agentic Systems
 
 Learn how models can interact with **tools, APIs, data, and external services**.
 
-### `04` Improve Data Engineering Skills
+### `04` · Improve Data Engineering Skills
 
 Strengthen my understanding of **PySpark, Databricks, cloud analytics, and scalable pipelines**.
 
-### `05` Contribute to Open Source
+### `05` · Contribute to Open Source
 
-Learn from real production repositories and collaborate with other developers.
+Learn from production-quality projects and collaborate with other developers.
 
 ---
 
-# 🏗️ The Engineer I'm Working to Become
+## 🌱 My Development Approach
+
+Learning, experimentation, implementation, evaluation, and improvement all contribute to the same thing: becoming a stronger engineer.
+
+```mermaid id="development01"
+flowchart LR
+
+    LEARN["📚 Learning"]
+    EXP["🧪 Experimenting"]
+    BUILD["⚙️ Building"]
+    EVAL["📈 Evaluating"]
+    IMPROVE["🔧 Improving"]
+
+    LEARN --> DEV["🧠 Engineering Growth"]
+    EXP --> DEV
+    BUILD --> DEV
+    EVAL --> DEV
+    IMPROVE --> DEV
+
+    DEV --> BETTER["🚀 Better Systems"]
+```
+
+---
+
+## 🏗️ The Engineer I'm Working to Become
 
 I'm not trying to simply collect technologies.
 
@@ -536,31 +513,43 @@ I'm working toward becoming an engineer who can:
 * 📝 Communicate technical decisions clearly
 * 🔁 Learn from failure and iterate
 
+### My Engineering Direction
+
+```mermaid id="engineer01"
+flowchart LR
+
+    RESEARCH["🔬 Research Thinking"]
+    PYTHON["🐍 Python Engineering"]
+    DATA["📊 Data Skills"]
+    AI["🧠 AI / ML"]
+    CLOUD["☁️ Cloud"]
+    COMM["📝 Communication"]
+
+    RESEARCH --> ENGINEER["⚙️ AI Engineer"]
+    PYTHON --> ENGINEER
+    DATA --> ENGINEER
+    AI --> ENGINEER
+    CLOUD --> ENGINEER
+    COMM --> ENGINEER
+
+    ENGINEER --> IMPACT["🚀 Reliable Intelligent Systems"]
+```
+
 ---
 
-# 🤝 Open to Collaboration
+## 🤝 Open to Collaboration
 
 <div align="center">
 
 ### Interested in building or discussing something around:
 
-`Artificial Intelligence`
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision`
 
-`Machine Learning`
-
-`Computer Vision`
-
-`Agentic AI`
-
-`Python`
-
-`Data Engineering`
-
-`Automation`
+`Agentic AI` · `Python` · `Data Engineering` · `Automation`
 
 <br>
 
-### Open To
+### Currently Open To
 
 🎓 **AI / ML Internships**
 
@@ -598,17 +587,19 @@ I'm working toward becoming an engineer who can:
 
 <br>
 
-### Muhammad Riyan
+### `Learn → Experiment → Engineer → Improve`
 
-**AI & Python Developer**
+<br>
+
+## Muhammad Riyan
+
+### AI & Python Developer
 
 `Machine Learning` · `Deep Learning` · `Computer Vision`
 
 `Agentic AI` · `Data Engineering` · `Automation`
 
 <br>
-
-### `Learn → Experiment → Engineer → Improve`
 
 **Building today. Learning for tomorrow. 🚀**
 
