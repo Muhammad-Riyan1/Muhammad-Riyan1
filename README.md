@@ -1,15 +1,15 @@
 <div align="center">
 
-# Muhammad Riyan
+# 👋 Hi, I'm Muhammad Riyan
 
 ### AI & Python Developer · Machine Learning · Deep Learning · Agentic AI
 
-**Building intelligent systems that turn data into useful, automated solutions.**
+**Turning curiosity into code, data into intelligence, and ideas into intelligent systems.**
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-58C7FF?style=for-the-badge\&logo=googlechrome\&logoColor=07111F)](https://Muhammad-Riyan1.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Muhammad-Riyan1)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
 
@@ -23,21 +23,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student and AI-focused Python developer** interested in building intelligent systems that connect machine learning research with practical engineering.
+I'm a **Computer Science student and AI-focused Python developer** passionate about building intelligent, data-driven systems.
 
-My work and learning currently span **Machine Learning, Deep Learning, Computer Vision, NLP, cloud analytics, data engineering, and Agentic AI workflows**.
+My interests span **Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, Data Engineering, Cloud Analytics, and Intelligent Automation**.
 
-Rather than stopping at model experimentation, I'm interested in the complete process:
+I enjoy moving beyond isolated experiments and exploring the complete AI engineering process:
 
-**Data → Model → Evaluation → Automation → Useful System**
+<div align="center">
 
-* 🔭 Building **scalable ML models and custom AI workflows**
-* 🤖 Exploring **Agentic AI, LLMs and intelligent automation**
+### `Data → Model → Evaluation → Engineering → Automation → Impact`
+
+</div>
+
+* 🔭 Currently building **Scalable Machine Learning Models & Custom AI Workflows**
+* 🤖 Exploring **Agentic AI, LLMs & Intelligent Automation**
 * 👁️ Working with **Deep Learning & Computer Vision**
-* 📊 Developing skills in **PySpark, Databricks and cloud analytics**
-* ⚙️ Automating workflows using **n8n, APIs and Python**
+* 📊 Developing skills in **PySpark, Databricks & Cloud Analytics**
+* ⚙️ Building automated workflows with **n8n, APIs & Python**
 * 🎓 Pursuing **BS Computer Science — UET Peshawar**
-* 📫 **[mhdriyankhn@gmail.com](mailto:mhdriyankhn@gmail.com)**
+* 📫 Reach me at **[mhdriyankhn@gmail.com](mailto:mhdriyankhn@gmail.com)**
 
 ---
 
@@ -49,15 +53,15 @@ Rather than stopping at model experimentation, I'm interested in the complete pr
 
 ### 🩻 Medical Image Classification
 
-Deep-learning image classification pipeline focused on CNN-based model development, training, experimentation and evaluation.
+Deep-learning image classification pipeline focused on CNN-based model development, training, experimentation, and evaluation.
 
 **Stack**
 
 `Python` `PyTorch` `CNN` `Computer Vision`
 
-**Exploring**
+**Focus**
 
-Model performance · Image preprocessing · Evaluation
+Model Training · Image Processing · Evaluation
 
 </td>
 
@@ -65,15 +69,15 @@ Model performance · Image preprocessing · Evaluation
 
 ### 🤖 Automated Tabular Data Agent
 
-Intelligent workflow for retrieving structured data, processing it and generating automated analytical outputs.
+Intelligent workflow designed to retrieve structured data, process it, and automatically generate analytical outputs.
 
 **Stack**
 
 `n8n` `Agentic AI` `APIs` `Data Analysis`
 
-**Exploring**
+**Focus**
 
-AI workflows · Automation · Data processing
+AI Workflows · Automation · Data Processing
 
 </td>
 </tr>
@@ -83,15 +87,15 @@ AI workflows · Automation · Data processing
 
 ### ☁️ E-Commerce Analytics Engine
 
-Cloud-oriented analytics workflow designed to process and analyze e-commerce datasets.
+Cloud-oriented analytics workflow for processing, transforming, and analyzing e-commerce datasets.
 
 **Stack**
 
 `PySpark` `Databricks` `AWS` `Python`
 
-**Exploring**
+**Focus**
 
-ETL · Distributed processing · Cloud analytics
+ETL · Distributed Processing · Cloud Analytics
 
 </td>
 
@@ -105,9 +109,9 @@ Automated workflow for extracting product information and transforming it into s
 
 `Python` `Automation` `Data Extraction`
 
-**Exploring**
+**Focus**
 
-Extraction · Processing · Structured data
+Extraction · Processing · Structured Data
 
 </td>
 </tr>
@@ -121,7 +125,7 @@ Extraction · Processing · Structured data
 <tr>
 <td width="33%" valign="top">
 
-### AI / ML
+### 🧠 AI / ML
 
 `Machine Learning`
 
@@ -139,7 +143,7 @@ Extraction · Processing · Structured data
 
 <td width="33%" valign="top">
 
-### Data / Cloud
+### 📊 Data / Cloud
 
 `PySpark`
 
@@ -157,7 +161,7 @@ Extraction · Processing · Structured data
 
 <td width="33%" valign="top">
 
-### Automation
+### ⚡ Automation
 
 `Agentic AI`
 
@@ -181,17 +185,31 @@ Extraction · Processing · Structured data
 
 <div align="center">
 
+### Languages & AI
+
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### Data
+
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge\&logo=pandas\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge\&logo=supabase\&logoColor=3FCF8E)
+
+### Cloud & Automation
 
 ![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge\&logo=databricks\&logoColor=FF3621)
 ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge\&logo=supabase\&logoColor=3FCF8E)
 ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge\&logo=n8n\&logoColor=EA4B71)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visualstudiocode\&logoColor=23A9F2)
 
 </div>
 
@@ -199,8 +217,10 @@ Extraction · Processing · Structured data
 
 ## ⚡ Currently
 
-```python id="f3q8nz"
+```python
 muhammad_riyan = {
+    "role": "AI & Python Developer",
+
     "education": "BS Computer Science @ UET Peshawar",
 
     "building": [
@@ -216,123 +236,202 @@ muhammad_riyan = {
         "Cloud Data Engineering",
     ],
 
-    "goal": "Turn AI concepts into useful real-world systems."
+    "goal": "Turn AI concepts into useful real-world systems.",
+
+    "status": "Learning. Building. Improving. 🚀"
 }
 ```
 
 ---
 
-## 🌱 How I Approach AI
+## 🧩 From Problem to Intelligent System
 
-```text id="x4mr9p"
-            LEARN
-              │
-              ▼
-          EXPERIMENT
-              │
-              ▼
-DATA ───► MODEL ───► EVALUATE
-                       │
-                       ▼
-                    ENGINEER
-                       │
-                       ▼
-                    AUTOMATE
-                       │
-                       ▼
-                  REAL-WORLD USE
+I'm interested in the **complete AI lifecycle**, not only model training.
+
+```text
+                    REAL-WORLD PROBLEM
+                           │
+                           ▼
+                  UNDERSTAND THE DATA
+                           │
+                           ▼
+                    PREPARE & EXPLORE
+                           │
+                           ▼
+                     BUILD / TRAIN
+                           │
+                           ▼
+                        EVALUATE
+                           │
+                           ▼
+                   ENGINEER THE SYSTEM
+                           │
+                           ▼
+                   AUTOMATE & IMPROVE
+                           │
+                           ▼
+                      USEFUL IMPACT
 ```
 
-For me, AI engineering isn't only about training a model.
+For me, the question isn't only:
 
-It's about understanding the problem, working with the data, experimenting carefully, engineering the surrounding system, and making the result genuinely useful.
+> **“Can I train this model?”**
 
----
+It's also:
 
-## 🎯 Current Goals
-
-**01 — Strengthen AI Fundamentals**
-Go deeper into machine learning, deep learning, computer vision and NLP.
-
-**02 — Build Better Projects**
-Create well-documented AI projects that demonstrate complete engineering workflows.
-
-**03 — Explore Agentic Systems**
-Build AI workflows that connect models, APIs, tools and data.
-
-**04 — Contribute to Open Source**
-Learn from production-quality projects and collaborate with other developers.
-
-**05 — Grow Into an AI Engineer**
-Develop the research and engineering skills required to build reliable intelligent systems.
+> **“Can I turn it into a useful, understandable, and reliable system?”**
 
 ---
 
-## 🌟 Beyond the Code
+## 🔬 Research → Engineering
 
-I’m building my career around one principle:
+One of the areas that interests me most is the bridge between **AI experimentation and practical engineering**.
 
-> **Learn deeply. Build practically. Improve continuously.**
+```text
+Research Question
+       │
+       ▼
+   Hypothesis
+       │
+       ▼
+   Experiment
+       │
+       ▼
+    Evidence
+       │
+       ▼
+   Prototype
+       │
+       ▼
+  Engineering
+       │
+       ▼
+     System
+       │
+       ▼
+   Real Usage
+       │
+       ▼
+    Feedback
+       │
+       └──────────► Better Questions
+```
 
-I’m especially interested in problems where **AI, data, and automation** come together to create something genuinely useful.
+**Research asks:** *What might work?*
 
-My long-term direction is to grow from building individual models and experiments into engineering **complete intelligent systems** — from data preparation and model development to APIs, automation, deployment, and continuous improvement.
+**Engineering asks:** *How can we make it useful and reliable?*
+
+I'm working toward becoming stronger at both.
 
 ---
 
-## 🔬 Areas I'm Exploring
+## 🧭 Learning Roadmap
+
+```text
+FOUNDATIONS
+│
+├── Python
+├── Data Structures
+├── Mathematics for ML
+└── Data Analysis
+        │
+        ▼
+MACHINE LEARNING
+│
+├── Supervised Learning
+├── Unsupervised Learning
+├── Feature Engineering
+└── Model Evaluation
+        │
+        ▼
+DEEP LEARNING
+│
+├── Neural Networks
+├── CNNs
+├── Computer Vision
+└── NLP
+        │
+        ▼
+MODERN AI
+│
+├── Large Language Models
+├── Fine-Tuning
+├── RAG
+└── Agentic AI
+        │
+        ▼
+AI ENGINEERING
+│
+├── APIs
+├── Automation
+├── Data Pipelines
+├── Cloud
+└── Production AI Systems
+```
+
+<div align="center">
+
+### The goal isn't to collect technologies.
+
+### The goal is to become better at solving difficult problems.
+
+</div>
+
+---
+
+## 💡 Engineering Principles
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🧠
+### 01 — Fundamentals First
 
-**Intelligent Models**
-
-Deep Learning
-Computer Vision
-NLP
-LLMs
+Frameworks change. Strong fundamentals continue to matter.
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🤖
+### 02 — Build to Learn
 
-**AI Agents**
+Reading teaches concepts. Building reveals what I still need to understand.
 
-Agentic AI
-Tool Use
-AI Workflows
-Automation
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 — Measure, Don't Assume
+
+Models and systems should be evaluated using evidence.
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 📊
+### 04 — Keep It Understandable
 
-**Data Systems**
+Good engineering should remain readable, maintainable, and explainable.
 
-PySpark
-Databricks
-Data Pipelines
-Analytics
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 05 — Automate With Purpose
+
+Automation should remove unnecessary work rather than introduce unnecessary complexity.
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### ☁️
+### 06 — Document the Journey
 
-**AI Engineering**
-
-APIs
-Cloud
-Integration
-Scalable Systems
+A strong project explains the problem, approach, decisions, results, and limitations.
 
 </td>
 </tr>
@@ -340,78 +439,199 @@ Scalable Systems
 
 ---
 
-## 💭 Developer Mindset
+## 🚀 What I Want to Build More Of
 
-```text
-Don't just learn a technology.
-        ↓
-Understand the problem.
-        ↓
-Experiment with solutions.
-        ↓
-Build something real.
-        ↓
-Measure what works.
-        ↓
-Improve it.
-        ↓
-Share what you learned.
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I value **consistent progress over shortcuts** and believe strong engineering comes from combining curiosity with disciplined experimentation.
+### 🤖 Agentic AI Systems
+
+Intelligent workflows combining:
+
+`LLMs` · `Tools` · `APIs` · `Data` · `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+Applied systems involving:
+
+`Image Classification` · `CNNs` · `Deep Learning` · `Evaluation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Intelligent Data Systems
+
+Scalable pipelines using:
+
+`Python` · `PySpark` · `Databricks` · `Analytics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ AI Automation
+
+Connecting:
+
+`AI Models` · `n8n` · `APIs` · `Databases` · `Services`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Create Something Meaningful
+## 🎯 Current Goals
+
+**01 — Strengthen AI Fundamentals**
+
+Go deeper into machine learning, deep learning, computer vision, and NLP.
+
+**02 — Build Better Projects**
+
+Develop well-documented projects that demonstrate complete AI engineering workflows.
+
+**03 — Explore Agentic Systems**
+
+Build intelligent workflows connecting models, APIs, tools, and data.
+
+**04 — Contribute to Open Source**
+
+Learn from production-quality projects and collaborate with other developers.
+
+**05 — Grow as an AI Engineer**
+
+Strengthen both the research and engineering skills required to build reliable intelligent systems.
+
+---
+
+## 🏗️ The Engineer I'm Working to Become
+
+I don't want to simply know a long list of technologies.
+
+I want to become an engineer who can:
+
+* 🧠 Understand difficult technical problems
+* 📊 Work carefully with data
+* 🔬 Design meaningful experiments
+* 📈 Evaluate results objectively
+* 🐍 Write clean Python
+* ⚙️ Build maintainable systems
+* 🤖 Connect AI models with real applications
+* ☁️ Understand scalable data and cloud workflows
+* 📝 Communicate technical decisions clearly
+* 🔁 Keep improving when the first solution doesn't work
+
+---
+
+## 🌱 My Development Loop
 
 <div align="center">
 
-### Have an interesting AI problem or project?
+```text
+              CURIOSITY
+                  │
+                  ▼
+                LEARN
+                  │
+                  ▼
+             EXPERIMENT
+                  │
+                  ▼
+                BUILD
+                  │
+                  ▼
+              EVALUATE
+                  │
+                  ▼
+               IMPROVE
+                  │
+                  ▼
+                SHARE
+                  │
+                  └──────────────► NEW QUESTIONS
+```
 
-I'm open to conversations around:
-
-`Machine Learning` • `Computer Vision` • `Agentic AI`
-`Python` • `Data Engineering` • `Automation` • `Open Source`
-
-<br>
-
-Whether it's a **research idea, collaborative project, open-source contribution, or AI automation challenge**, feel free to reach out.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
-[![Email](https://img.shields.io/badge/LET'S_BUILD-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
-
-<br><br>
-
-### `Curiosity → Knowledge → Engineering → Impact`
-
-<sub>Always learning. Always building.</sub>
+### `Learn → Experiment → Build → Evaluate → Improve`
 
 </div>
 
+---
 
 ## 🤝 Open to Collaboration
 
 <div align="center">
 
-I'm interested in connecting around
+I'm interested in connecting around:
 
-**AI / ML Projects · Research · Open Source · Automation · Data Engineering**
+`Artificial Intelligence` • `Machine Learning` • `Computer Vision`
+
+`Agentic AI` • `Python` • `Data Engineering` • `Automation`
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
-[![Email](https://img.shields.io/badge/Start_a_Conversation-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
+### Currently open to
 
-<br><br>
+**🎓 AI / ML Internships**
+
+**🔬 Research Collaborations**
+
+**💻 Open-Source Contributions**
+
+**🤖 AI & Machine Learning Projects**
+
+**⚡ Agentic AI / Automation Projects**
+
+**📊 Data Engineering Projects**
+
+<br>
+
+### Have an interesting idea or problem?
+
+**Let's build something meaningful.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
+
+[![Email](https://img.shields.io/badge/START_A_CONVERSATION-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
+
+</div>
 
 ---
 
-### `Learn → Experiment → Build → Improve`
+<div align="center">
 
-**Building today. Learning for tomorrow.**
+## ✦ Keep Learning. Keep Building.
 
-<sub>AI • Python • Machine Learning • Deep Learning • Automation</sub>
+> ### *“The goal isn't to know everything.*
+>
+> ### *The goal is to become better at figuring things out.”*
+
+<br>
+
+### `Curiosity → Knowledge → Engineering → Impact`
+
+<br>
+
+### Muhammad Riyan
+
+**AI & Python Developer**
+
+`Machine Learning` • `Deep Learning` • `Computer Vision`
+
+`Agentic AI` • `Data Engineering` • `Automation`
+
+<br>
+
+**Building today. Learning for tomorrow. 🚀**
 
 </div>
