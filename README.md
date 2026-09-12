@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-58C7FF?style=for-the-badge\&logo=googlechrome\&logoColor=07111F)](https://Muhammad-Riyan1.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-58C7FF?style=for-the-badge\&logo=googlechrome\&logoColor=07111F)](https://celadon-duckanoo-99f143.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Muhammad-Riyan1)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
@@ -569,6 +569,8 @@ flowchart LR
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_WORK-Portfolio-58C7FF?style=for-the-badge\&logo=googlechrome\&logoColor=07111F)](https://celadon-duckanoo-99f143.netlify.app/)
+
 [![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-riyan-021288338)
 
 [![Email](https://img.shields.io/badge/START_A_CONVERSATION-Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mhdriyankhn@gmail.com)
@@ -600,6 +602,10 @@ flowchart LR
 `Agentic AI` · `Data Engineering` · `Automation`
 
 <br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_MY_PORTFOLIO-Visit_Website-58C7FF?style=for-the-badge)](https://celadon-duckanoo-99f143.netlify.app/)
+
+<br><br>
 
 **Building today. Learning for tomorrow. 🚀**
 
