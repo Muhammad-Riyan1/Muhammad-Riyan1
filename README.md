@@ -188,36 +188,57 @@ flowchart LR
 
 </div>
 
----
+# 👨‍💻 Muhammad Riyan
 
-## ⚡ Currently
-
-```python id="current01"
+```python
 muhammad_riyan = {
-    "role": "AI & Python Developer",
+    "role": "AI Researcher & Engineer",
 
     "education": "BS Computer Science @ UET Peshawar",
 
     "building": [
-        "Scalable Machine Learning Models",
+        "Quantum CNN & Hybrid AI Models",
+        "Scalable Machine Learning Systems",
         "Custom AI Workflows",
-        "Data-Driven Intelligent Systems",
+        "Intelligent Computer Vision Solutions",
     ],
 
     "exploring": [
-        "Agentic AI",
-        "Large Language Models",
+        "Quantum Machine Learning",
+        "Agentic AI & AI Agents",
+        "Large Language Models (LLMs)",
         "Computer Vision",
-        "Cloud Data Engineering",
+        "Deep Learning",
     ],
 
-    "goal": "Turn AI concepts into useful real-world systems.",
+    "goal": "Transform AI research into practical, real-world solutions.",
 
-    "status": "Learning. Building. Improving. 🚀"
+    "status": "Researching. Building. Innovating. 🚀"
 }
 ```
 
 ---
+
+### 🚀 About Me
+
+I'm Muhammad Riyan, an AI researcher and engineer passionate about building intelligent systems, exploring quantum machine learning, and turning research ideas into practical AI solutions.
+
+- 🧠 Interested in AI research and deep learning
+- ⚛️ Exploring hybrid quantum-classical neural networks
+- 👁️ Building computer vision and machine learning models
+- 🤖 Exploring LLMs and agentic AI workflows
+- 🎯 Focused on creating useful, real-world intelligent systems
+
+### 🛠️ Tech Stack
+
+`Python` · `PyTorch` · `PennyLane` · `Machine Learning` · `Deep Learning` · `Computer Vision` · `LLMs`
+
+---
+
+<p align="center">
+  <i>"Learning continuously. Building intelligently. Innovating relentlessly."</i> 🚀
+</p>
+
 
 ## ⚙️ My AI Engineering Workflow
 
